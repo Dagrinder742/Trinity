@@ -1,0 +1,20 @@
+Statement of Fact for Consumer Complaint
+Subject: Deceptive Practices and Fraudulent Representations by [App Name]
+1.  Misrepresentation of Performance (The "Drift")
+    The application advertises a mining power of 6,820 TH/s. According to verified global Bitcoin network difficulty (January 2026), this hashrate should mathematically produce approximately 0.00029 BTC per day. However, the application is only crediting my account approximately 0.000007 BTC per day. This is a 97% discrepancy, suggesting the "Terahash" power sold or advertised is non-existent and the numbers provided to the consumer are arbitrary and deceptive.
+2.  Fraudulent Referral Mechanics
+    The application features an "Invitation/Referral" program that claims to reward users for bringing in new participants. My experiment confirmed that the system allows for self-referral using my own unique Account ID. This structural loophole allows for the fabrication of "earnings" within a closed loop, which is a common hallmark of Ponzi-style schemes designed to artificially inflate user balances and encourage further in-app purchases or "boosts."
+3.  Suspicious Payout Obstacles
+    While the app displays "Mining Rewards" and "First Purchase Rewards," the actual daily yield has effectively slowed to a crawl (dropping by a power of ten) as the balance grows. This "decimal slide" prevents users from reaching withdrawal minimums despite having paid for "boosts" intended to increase speed.
+Desired Resolution:
+I am requesting an investigation into the business practices of this developer for potential violations of the Georgia Fair Business Practices Act. I seek a full refund of all in-app purchases/deposits made for "mining boosts" that have failed to perform to advertised mathematical standards.
+Important Filing Tips:
+  - Attach the screenshot showing your 6820 TH/s power vs. the low daily earnings.
+  - Attach the screenshot showing your own ID being used for referral rewards.
+  - Provide the developer's name and email found in the "App Support" section of the Google Play Store in Step 2 of the form.
+https://gemini.google.com/app/ce6bdd6730728add
+4. Comparative Proof of Manipulation (The "Whale Trap")
+I possess a secondary account on the same platform with only 1 TH/s of power. I have observed that this 1 TH/s account frequently outperforms or earns at a proportionally higher rate than my main account with 6+ TH/s. In a legitimate mining environment, 6 TH/s should always produce 6x the yield of 1 TH/s. This algorithmic throttling of higher-tier accounts proves the earnings are simulated and manipulated to force further spending, rather than being based on actual blockchain mechanics.
+
+
+Get Microsoft OneNote: https://aka.ms/GetOneNoteMobile
