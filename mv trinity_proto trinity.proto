@@ -1,0 +1,9 @@
+message GeoWeatherGate {
+    float temperature = 1;
+    float humidity = 2;
+    float pressure = 3;
+    int64 timestamp = 4;
+    string sensor_id = 5;
+    bytes entry_hash = 6;
+}
+
